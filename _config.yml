@@ -1,0 +1,28 @@
+name: Herbal Garden
+favicon: null
+layout_spectrum: 0.8608056160155684
+typography_spectrum: 0.5076642159838229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7095925232861191
+  lightness: 0.28715607058256865
+  saturation: 0.38393490645103157
+  rhythmicContrast: 0.5670290305279195
+purpose: []
