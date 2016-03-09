@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Herbal Garden]]></title>
-        <description><![CDATA[Herbal Garden]]></description>
+        <title><![CDATA[Greta's secret herbal garden]]></title>
+        <description><![CDATA[Greta's secret herbal garden]]></description>
         <link>https://thegrid.ai/herbal-garden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:26:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/herbal-garden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/herbal-garden/7806c9d2-55f2-424d-9065-b68f693fff4f/index.html</link>
             <guid isPermaLink="false">7806c9d2-55f2-424d-9065-b68f693fff4f</guid>
             <pubDate>Wed, 09 Mar 2016 11:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>testing once again</p>]]></description>
+            <link>https://thegrid.ai/herbal-garden/2960424c-1a81-4597-b00c-d3881630b55e/index.html</link>
+            <guid isPermaLink="false">2960424c-1a81-4597-b00c-d3881630b55e</guid>
+            <pubDate>Wed, 09 Mar 2016 12:24:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
