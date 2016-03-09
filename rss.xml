@@ -4,7 +4,7 @@
         <description><![CDATA[Herbal Garden]]></description>
         <link>https://thegrid.ai/herbal-garden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:14:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/herbal-garden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/herbal-garden/7806c9d2-55f2-424d-9065-b68f693fff4f/index.html</link>
             <guid isPermaLink="false">7806c9d2-55f2-424d-9065-b68f693fff4f</guid>
             <pubDate>Wed, 09 Mar 2016 11:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d271158-d30b-45e4-b53e-ecc68a3e46f4.jpg">]]></description>
+            <link>https://thegrid.ai/herbal-garden/test-123/index.html</link>
+            <guid isPermaLink="false">c673b563-277d-49d5-8caf-5438ecd2efc1</guid>
+            <pubDate>Wed, 09 Mar 2016 12:13:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
